@@ -2,4 +2,4 @@
 
 Hello my friends 
 
-This repo is my experience while learning Solidity
+This repo consists of my experiences in Solidity, and I will share everything new that I learn here.
